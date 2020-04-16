@@ -153,9 +153,11 @@ h1 {
   font-weight: lighter;
 }
 
+
 .work .content ul {
   border-left: 1px solid #96a9c4;
   padding-left: 24px;
+  margin-top: 6px;
 }
 
 .work .content li {
@@ -174,7 +176,6 @@ h1 {
   font-size: 20px;
   font-weight: lighter;
   width: 642px;
-
 }
 
 .footer {
